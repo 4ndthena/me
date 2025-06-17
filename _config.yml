@@ -35,6 +35,7 @@ url: "https://4ndthena.github.io/" # the base hostname & protocol for your site,
 github_username:  4ndthena
 
 # Build settings
+<<<<<<< HEAD
 #remote_theme: abhinavs/moonwalk
 #theme_config:
 #  appearance: "dark" # can be "light", "dark" or "auto"
@@ -57,6 +58,11 @@ github_username:  4ndthena
 #  - poems.md
 #  - music.md
 #  - about.markdown
+=======
+theme: minima
+plugins:
+  - jekyll-feed
+>>>>>>> parent of 6acfbe5 (skin)
 
 remote_theme: jekyll/minima
 minima:
