@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-published: false
-order: 4
+menu: main
+order: 1
 ---
 
 # Welcome!

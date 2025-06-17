@@ -2,7 +2,7 @@
 layout: page
 title: "Poems"
 permalink: "/me/poems/"
-order: 1
+order: 4
 categories: art mine writing
 ---
 
