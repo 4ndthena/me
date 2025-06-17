@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Poems"
 permalink: "/poems/"
 order: 1
