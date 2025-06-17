@@ -29,16 +29,14 @@ domain: "4ndthena.github.io"
 url: "https://4ndthena.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  4ndthena
 
-remote_theme: pages-themes/hacker@v0.2.0
-
 # Build settings
-#remote_theme: jekyll/minima
-#minima:
-#  skin: solarized-dark
-#  nav_pages:
-#  - poems.md
-#  - music.md
-#  - about.markdown
+remote_theme: jekyll/minima
+minima:
+  skin: solarized-dark
+  nav_pages:
+  - poems.md
+  - music.md
+  - about.markdown
 
 plugins:
   - jekyll-feed
