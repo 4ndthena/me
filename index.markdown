@@ -4,7 +4,7 @@
 
 layout: home
 menu: main
-title: ""
+title: "&"
 permalink: "/"
 order: 4
 ---

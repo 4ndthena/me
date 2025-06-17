@@ -31,12 +31,12 @@ github_username:  4ndthena
 
 # Build settings
 theme: minima
-minima:
-  skin: dark
-  nav_pages:
-  - poems.md
-  - music.md
-  - about.markdown
+#minima:
+#  skin: dark
+#  nav_pages:
+#  - poems.md
+#  - music.md
+#  - about.markdown
 
 plugins:
   - jekyll-feed
@@ -44,10 +44,10 @@ plugins:
 
 google_analytics: G-VHZZWGHCDJ
 
-#header_pages:
-#  - poems.md
-#  - music.md
-#  - about.markdown
+header_pages:
+  - poems.md
+  - music.md
+  - about.markdown
 
 
 
