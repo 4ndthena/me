@@ -22,9 +22,7 @@ title: "&thena's hobbistic prison"
 email: ampthena@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my giant collection of things I made!
-  
   Webpage and media served are available under CC BY-NC-ND licence
-
   © 2025 Poland Jan T.
 baseurl: "/me" # the subpath of your site, e.g. /blog
 domain: "4ndthena.github.io"
@@ -33,16 +31,16 @@ github_username:  4ndthena
 
 # Build settings
 remote_theme: jekyll/minima
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
-
 minima:
   skin: solarized-dark
   nav_pages:
   - poems.md
   - music.md
   - about.markdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
 
 google_analytics: G-VHZZWGHCDJ
 
