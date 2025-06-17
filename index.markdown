@@ -4,6 +4,9 @@
 
 layout: home
 menu: main
+title: ""
+permalink: "/me"
+published: false
 order: 1
 ---
 
