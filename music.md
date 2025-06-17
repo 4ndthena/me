@@ -2,6 +2,7 @@
 layout: page
 title: Music
 permalink: /me/music/
+order: 2
 categories: mine art music
 ---
 

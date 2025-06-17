@@ -4,6 +4,7 @@
 
 layout: home
 published: false
+order: 4
 ---
 
 # Welcome!
