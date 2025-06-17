@@ -30,13 +30,13 @@ url: "https://4ndthena.github.io/" # the base hostname & protocol for your site,
 github_username:  4ndthena
 
 # Build settings
-theme: minima
-#minima:
-#  skin: dark
-#  nav_pages:
-#  - poems.md
-#  - music.md
-#  - about.markdown
+remote_theme: jekyll/minima
+minima:
+  skin: dark
+  nav_pages:
+  - poems.md
+  - music.md
+  - about.markdown
 
 plugins:
   - jekyll-feed
