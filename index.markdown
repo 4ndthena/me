@@ -6,7 +6,6 @@ layout: home
 menu: main
 title: ""
 permalink: "/"
-published: false
 order: 4
 ---
 
