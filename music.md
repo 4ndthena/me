@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Music
-permalink: /music/
+permalink: /me/music/
 categories: mine art music
 ---
 
