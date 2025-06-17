@@ -22,7 +22,7 @@ project_entries:
     desc: work in progess
 
 footer_entries:
-  - title: "&thena's hobbistic prison"
+  - title: "main"
     url: https://4ndthena.github.io/me
 
   - title: Discord
@@ -31,8 +31,17 @@ footer_entries:
   - title: Instagram
     url: https://www.instagram.com/3ch05/
 
+  - title: Spotify
+    url: https://open.spotify.com/user/dobrzknh1i81y5wm57dy00axr?si=e0fca37e9ff54c87
+
   - title: Bandlab
     url: https://www.bandlab.com/antiboyotic
+
+  - title: Github
+    url: https://github.com/4ndthena
+
+  - title: mail
+    url: mailto:ampthena@protonmail.com
 
 misc_entries:
   - title: this is an example vertical list
