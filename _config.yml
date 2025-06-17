@@ -30,7 +30,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   © 2025 Poland Jan T.
 baseurl: "/me" # the subpath of your site, e.g. /blog
 domain: "4ndthena.github.io"
-#favicon: "./logo.png"
+favicon: "./logo.png"
 url: "https://4ndthena.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  4ndthena
 

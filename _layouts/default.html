@@ -2,6 +2,17 @@
 <html lang="{{ page.lang | default: "en" }}" class="html" data-theme="{{ site.theme_config.appearance | default: "auto" }}">
         {%- include head.html -%}
   <body>
+    <header>
+      {% if site.theme_config.show_navbar == true %}
+        {% include horizontal_list.html collection=site.data.home.navbar_entries %}
+        <div class="dashed"></div>
+      {% endif %}
+
+      <h1>{{ site.title }}</h1>
+      {% if site.theme_config.show_description == true %}
+      <p>{{ site.description }}</p>
+      {% endif %}
+    </header>
     <main class="page-content" aria-label="Content">
       <div class="w">
         {{ content }}
