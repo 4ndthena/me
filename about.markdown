@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /me/about/
+permalink: /about/
 order: 3
 ---
 

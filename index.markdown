@@ -5,7 +5,7 @@
 layout: home
 menu: main
 title: ""
-permalink: "/me"
+permalink: "/"
 published: false
 order: 4
 ---

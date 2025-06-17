@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Poems"
-permalink: "/me/poems/"
+permalink: "/poems/"
 order: 1
 categories: art mine writing
 ---
