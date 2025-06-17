@@ -36,6 +36,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
+minima:
+  skin: solarized
+
 header_pages:
   - poems.md
   - music.md
