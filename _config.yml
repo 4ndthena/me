@@ -20,7 +20,7 @@
 
 title: "&thena's hobbistic prison"
 site: "blog"
-author: "Jan T.""
+author: "Jan T."
 email: ampthena@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my giant collection of things I made!
@@ -54,10 +54,10 @@ theme_config:
   show_reading_time: true # show number of words and reading time in the blog posts
   show_tags: true # show tags in a blog posts
   
-header_pages:
-  - poems.md
-  - music.md
-  - about.markdown
+#header_pages:
+#  - poems.md
+#  - music.md
+#  - about.markdown
 
 #remote_theme: jekyll/minima
 #minima:
