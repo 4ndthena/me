@@ -32,7 +32,7 @@ github_username:  4ndthena
 # Build settings
 remote_theme: jekyll/minima
 minima:
-  skin: dark
+  skin: solarized-dark
   nav_pages:
   - poems.md
   - music.md
