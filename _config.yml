@@ -51,13 +51,13 @@ exclude:
   - LICENSE.md
 
 # Build settings
-remote_theme: jekyll/minima
-minima:
-  skin: solarized-dark
-  nav_pages:
-  - poems.md
-  - music.md
-  - about.markdown
+#remote_theme: jekyll/minima
+#minima:
+#  skin: solarized-dark
+#  nav_pages:
+#  - poems.md
+#  - music.md
+#  - about.markdown
 
 plugins:
   - jekyll-feed
