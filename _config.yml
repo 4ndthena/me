@@ -29,6 +29,16 @@ domain: "4ndthena.github.io"
 url: "https://4ndthena.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  4ndthena
 
+# Pagination
+paginate: 4
+permalink: /blog/:year/:title/
+paginate_path: /blog/page:num/
+
+# Social media links in footer
+github: "https://github.com/4ndthena"
+instagram: ""
+
+# Markdown
 highlighter: rouge
 markdown: kramdown
 
