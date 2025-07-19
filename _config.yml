@@ -22,25 +22,63 @@ title: "&thena's hobbistic prison"
 email: ampthena@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my giant collection of things I made!
-  Webpage and media served are available under CC BY-NC-ND licence
-  © 2025 Poland Jan T.
+#  Webpage and media served are available under CC BY-NC-ND licence
+#  © 2025 Poland Jan T.
 baseurl: "/me" # the subpath of your site, e.g. /blog
 domain: "4ndthena.github.io"
 url: "https://4ndthena.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  4ndthena
 
+# Pagination
+paginate: 4
+permalink: /blog/:year/:title/
+paginate_path: /blog/page:num/
+
+# Social media links in footer
+github: "https://github.com/4ndthena"
+instagram: ""
+
+# Markdown
+highlighter: rouge
+markdown: kramdown
+
+# optimization -> compress.html
+compress_html:
+  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
+  comments: ["<!-- ", " -->"]
+  endings: [all]
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: []
+
+sass:
+  sass_dir: /assets/css/_sass
+  style: compressed
+
+include:
+  - _pages
+
+exclude:
+  - LICENSE.md
+
 # Build settings
-remote_theme: jekyll/minima
-minima:
-  skin: solarized-dark
-  nav_pages:
-  - poems.md
-  - music.md
-  - about.markdown
+#remote_theme: jekyll/minima
+#minima:
+#  skin: solarized-dark
+#  nav_pages:
+#  - poems.md
+#  - music.md
+#  - about.markdown
 
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-email-protect
+  - jekyll-target-blank
+  - jekyll-seo-tag
+  - jekyll-paginate
 
 google_analytics: G-VHZZWGHCDJ
 
