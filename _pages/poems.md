@@ -1,8 +1,7 @@
 ---
 layout: page
 title: "Poems"
-permalink: "/poems/"
-order: 1
+permalink: "/Poems/"
 categories: art mine writing
 ---
 
@@ -847,6 +846,31 @@ all the words turn into breathing\
 my heart's slowing\
 abyss, warning\
 my own eyes won't see the morning
+
+---
+
+### dysmorphia
+
+my own body has a curse\
+one so strong it gives me pain\
+no remedies, empty purse\
+my existence's worldly bane
+
+my own flesh keeps laughing on\
+re-creating painful structures\
+hardened scales, my fingers own\
+in my mind there is no rest
+
+as the world keeps twisting, turning\
+empty room with two small chairs\
+with my skin that feels like burning\
+one more hair regrows like pest
+
+people all around the world\
+keep on saying what I'm not\
+a mistake made by theirs god\
+my skin slowly starts to rot
+
 
 [comment]: <> ---
 
