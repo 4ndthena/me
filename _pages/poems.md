@@ -872,6 +872,87 @@ a mistake made by theirs god\
 my skin slowly starts to rot
 
 
+---
+
+### questioning
+
+fleshy flower bore a fruit
+the juice of which can cure all rot
+to feed it you must give your blood
+
+there is no earth beneath the root
+instead, a mountain, corpses lot
+cementery, once humans flood
+
+the plant's spore now lives in you
+twisting, turning yours hurt skin
+unrecognizable truly
+
+last one standing out of your crew
+amo
+ng flowers you can't win
+"who am I?" your mind asks dully
+
+---
+
+### radiant towers
+
+tall, steel structures of the past
+invisible drawing lines
+by some giants they were cast
+brown and grey like their own spines
+
+quiet whisper can be heard
+unnatural, high pitched tone
+can't find someone who had cared
+from beneath a single bone
+
+radiant waves the towers carry
+gathering a silent cult
+handheld slabs one think can marry
+humanity's giant insult
+
+through the light of those old towers
+this last wish can reach you through
+not forgiving higher powers
+hate towards them only grew
+
+---
+
+single dot inside of you
+was just born and yet remembers
+now, it has some work as due
+to survive your mind's embers
+
+this small cell that lives now too
+among others like itself
+can just thrive because of you
+not be put inside a shelf
+
+---
+
+trust
+
+everything is slowly melting
+I can hear it in the pipes
+and now you're so used to taking
+all the different things and types
+
+all that you have stolen now
+every word that hurts me still
+all I've done, to you just bow
+now I simply want to kill
+
+this small creature inside me
+can you, please, just let me be
+in the snow, to slowly bleed
+the blood of my inside kid
+
+no such story to be told
+all you've done to me is lie
+you have always been this bold
+I can't wait for it to die
+
 [comment]: <> ---
 
 [comment]: <> slow descent into the darkness\
